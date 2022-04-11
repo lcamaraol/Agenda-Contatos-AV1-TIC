@@ -1,6 +1,6 @@
-<>h1Agenda-Contatos-AV1-TIC</h1>
+<h1>Agenda-Contatos-AV1-TIC</h1>
 
-##Avaliação feita por:
+## Avaliação feita por:
 - Alex Diniz - 06003943
 - Bernardo da Silva - 06004026
 - Eduardo Esplinio - 06003445
